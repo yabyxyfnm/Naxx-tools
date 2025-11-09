@@ -12,5 +12,7 @@ and after put this : pip install requests colorama
 
 
 WINDOWS:
-
+py -m pip install colorama 
+py -m pip install requests
+or
 pip install requests colorama
